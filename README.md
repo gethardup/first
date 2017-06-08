@@ -1,2 +1,2 @@
 # first
-creating a new branch is quickS
+creating a new branch is quickS & simple
